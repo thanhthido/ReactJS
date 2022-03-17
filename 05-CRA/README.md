@@ -32,7 +32,7 @@ hoặc dùng lệnh trong terminal:
 
 ```
 cd learn-reactjs # di chuyển vào folder learn-reactjs
-code . # mơ ̉ folder hiện tại bằng VSCode
+code . # mở folder hiện tại bằng VSCode
 ```
 
 Từ VSCode, hiển thị cửa sổ terminal bằng tổ hợp phím Ctrl + J. Chạy lệnh sau để bắt đầu project ReactJS.

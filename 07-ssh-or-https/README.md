@@ -27,7 +27,7 @@ git clone git@github.com:thanhthido/repo-name.git
 Tuy nhiên:
 
 -   Setup hơi phức tạp nếu bạn không quen sử dụng terminal.
--   Hay bị chặn bời firewall.
+-   Hay bị chặn bởi firewall.
 
 🌐 Link tham khảo
 
