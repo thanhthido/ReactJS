@@ -2,7 +2,7 @@
 
 ```
 src
-|__ components (shared components between features)
+|__ components (shared components between features) => được sử dụng ở tất cả các feature
 | |__ Loading
 |     |__ index.jsx
 |     |__ styles.scss
